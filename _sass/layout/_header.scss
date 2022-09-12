@@ -36,7 +36,7 @@
 			line-height: inherit;
 			padding: 0 1.5em;
 
-			strong {
+			strong, img {
 				@include vendor('transition', (
 					'background-color #{_duration(transition)} ease-in-out',
 					'color #{_duration(transition)} ease-in-out'
