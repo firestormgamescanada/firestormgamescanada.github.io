@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: DnD Campaigns
 image: assets/images/dice.jpg
 nav-menu: true
 ---
