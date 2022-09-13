@@ -1,8 +1,8 @@
 # site settings
 title: Firestorm Games Canada
-subtitle: Game Studio and Freelance
+subtitle: 
 email: steven.anthony.burrell@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Game Studio and Freelance Work
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
