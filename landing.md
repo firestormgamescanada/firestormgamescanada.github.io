@@ -1,5 +1,5 @@
 ---
-title: Landing
+title: Narrative Design
 layout: landing
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 image: assets/images/fantasy.jpg
