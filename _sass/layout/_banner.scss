@@ -25,6 +25,10 @@
 		top: -3.25em;
 		color: _palette(bg);
 
+		.button {
+			box-shadow: inset 0 0 0 2px _palette(bg);
+			color: _palette(bg);
+		}
 		/*&:after {
 			@include vendor('transition', 'opacity #{_duration(banner)} ease');
 			@include vendor('transition-delay', '0.75s');
