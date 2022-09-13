@@ -1,6 +1,7 @@
 ---
 layout: page
 title: DnD Campaigns
+description: Lorem ipsum dolor est
 image: assets/images/dice.jpg
 nav-menu: true
 ---
