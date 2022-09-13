@@ -46,8 +46,10 @@
 		}*/
 
 		h1 {
-			font-size: 3.25em;
+			/*font-size: 3.25em;*/
 			color: _palette(bg);
+			font-size: 5.25em;
+			line-height: 1;
 		}
 
 		> .inner {
@@ -82,7 +84,8 @@
 			.content {
 				@include vendor('display', 'flex');
 				@include vendor('align-items', 'center');
-				margin: 0 0 _size(element-margin) 0;
+				margin-left: 0.4em;
+   				margin-bottom: _size(element-margin);
 
 				> * {
 					margin-left: 1.5em;
