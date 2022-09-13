@@ -23,6 +23,7 @@
 		min-height: 22em;
 		position: relative;
 		top: -3.25em;
+		color: _palette(bg);
 
 		/*&:after {
 			@include vendor('transition', 'opacity #{_duration(banner)} ease');
@@ -42,6 +43,7 @@
 
 		h1 {
 			font-size: 3.25em;
+			color: _palette(bg);
 		}
 
 		> .inner {
