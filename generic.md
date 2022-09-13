@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generic
+title: Asset and Level Design
 description: Lorem ipsum dolor est
 image: assets/images/chest.jpg
 nav-menu: true
